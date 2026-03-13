@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hugo (Infor) Marcondes! 👋
 
-<!--
-**inforgamer/inforgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writer by vocation, developer by choice, and an aspiring digital artist. I build tools that solve real problems and stories that explore the human soul. 🦋
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working on:
+- 📦 **Estoque:** A professional inventory system (Flutter/Python) with real-time SQLite & MySQL sync.
+- 🎮 **Project Insomnia:** A 2D Roguelite focusing on mental health, with a Tarot-based class system.
+- 🖋️ **Writing:** Currently working on two novels, blending the fantastic with the everyday.
+### 🚀 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> *"Memento Mori. Remember that you will die, so live while you can."* 🦋  
+> (And yes, Persona 3's ending still haunts me.)
+
+---
+
+### 🎨 Let's connect?
+I'm always down to discuss game dev, narrative design.
