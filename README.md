@@ -21,3 +21,7 @@ Writer by vocation, developer by choice, and an aspiring digital artist. I build
 
 ### 🎨 Let's connect?
 I'm always down to discuss game dev, narrative design.
+
+### 📈 Minhas Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight)
