@@ -15,7 +15,6 @@ Writer by vocation, developer by choice, and an aspiring digital artist. I build
 ---
 
 > *"Memento Mori. Remember that you will die, so live while you can."* 🦋  
-> (And yes, Persona 3's ending still haunts me.)
 
 ---
 
