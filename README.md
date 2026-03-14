@@ -3,11 +3,10 @@
 Writer by vocation, developer by choice, and an aspiring digital artist. I build tools that solve real problems and stories that explore the human soul. 🦋
 
 ### 🛠️ What I'm working on:
-- 📦 **Estoque:** A professional inventory system (Flutter/Python) with real-time SQLite & MySQL sync.
+- 📦 **Estoque:** A professional inventory system (Dart/Python) with real-time SQLite & MySQL sync.
 - 🎮 **Project Insomnia:** A 2D Roguelite focusing on mental health, with a Tarot-based class system.
 - 🖋️ **Writing:** Currently working on two novels, blending the fantastic with the everyday.
 ### 🚀 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
