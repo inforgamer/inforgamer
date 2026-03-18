@@ -1,25 +1,46 @@
-# Hi, I'm Hugo (Infor) Marcondes! 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8a/5c/21/8a5c21f230f81d5809ea6f9dbbc82226.gif" alt="Dark Hour" width="150"/>
 
-Writer by vocation, developer by choice, and an aspiring digital artist. I build tools that solve real problems and stories that explore the human soul. 🦋
+  <h1>Hi, I'm Hugo (Infor) Marcondes! 👋</h1>
+  <p><em>Writer by vocation, developer by choice, and an aspiring digital artist.</em></p>
+  <p>I build tools that solve real problems and stories that explore the human soul. 🦋</p>
+</div>
 
-### 🛠️ What I'm working on:
+<br>
+
+### 🛠️ What I'm Working On
 - 📦 **Estoque:** A professional inventory system (Dart/Python) with real-time SQLite & MySQL sync.
 - 🎮 **Project Insomnia:** A 2D Roguelite focusing on mental health, with a Tarot-based class system.
-- 🖋️ **Writing:** Currently working on two novels, blending the fantastic with the everyday.
+- 🖋️ **Writing:** Currently crafting two novels, blending the fantastic with the everyday.
+
+<br>
+
 ### 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
+
+<br>
 
 ---
 
-> *"Memento Mori. Remember that you will die, so live while you can."* 🦋  
+<div align="center">
+  <h3><em>"Memento Mori. Remember that you will die, so live while you can."</em> 🦋</h3>
+</div>
 
 ---
 
-### 🎨 Let's connect?
-I'm always down to discuss game dev, narrative design.
+### 🎨 Let's Connect?
+I'm always down to discuss game dev, narrative design, and the mysteries of the Dark Hour.
 
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
