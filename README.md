@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8a/5c/21/8a5c21f230f81d5809ea6f9dbbc82226.gif" alt="Dark Hour" width="150"/>
+  <!-- SUA LUA AQUI -->
+  <img src="./assets/dark_hour_moon.gif" alt="Dark Hour Moon" width="160"/>
 
   <h1>Hi, I'm Hugo (Infor) Marcondes! 👋</h1>
   <p><em>Writer by vocation, developer by choice, and an aspiring digital artist.</em></p>
@@ -8,9 +9,11 @@
 
 <br>
 
+---
+
 ### 🛠️ What I'm Working On
 - 📦 **Estoque:** A professional inventory system (Dart/Python) with real-time SQLite & MySQL sync.
-- 🎮 **Project Insomnia:** A 2D Roguelite focusing on mental health, with a Tarot-based class system.
+- 🎮 **Project Insomnia:** A 2D Roguelite exploring mental health through a Tarot-based class system.
 - 🖋️ **Writing:** Currently crafting two novels, blending the fantastic with the everyday.
 
 <br>
@@ -29,13 +32,13 @@
 ---
 
 <div align="center">
-  <h3><em>"Memento Mori. Remember that you will die, so live while you can."</em> 🦋</h3>
+  <h3><em>"Memento Mori. Remember that you will die, so live while you can."</em> 🌙</h3>
 </div>
 
 ---
 
 ### 🎨 Let's Connect?
-I'm always down to discuss game dev, narrative design, and the mysteries of the Dark Hour.
+I'm always down to discuss game dev, narrative design, and anything that lives in the quiet hours of the night. 🌙
 
 <br>
 
