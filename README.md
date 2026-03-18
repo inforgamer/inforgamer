@@ -19,13 +19,11 @@
 
 ### 🚀 Tech Stack
 <div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-00E5FF?style=flat-square&logo=flutter&logoColor=0A192F" />
-<img src="https://img.shields.io/badge/Dart-4FC3F7?style=flat-square&logo=dart&logoColor=0A192F" />
-<img src="https://img.shields.io/badge/Python-00FF9C?style=flat-square&logo=python&logoColor=0A192F" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-0A192F?style=flat-square&logo=mysql&logoColor=00E5FF" />
-
+  <img src="https://img.shields.io/badge/Flutter-00cfff?style=for-the-badge&logo=flutter&logoColor=0b1020" />
+  <img src="https://img.shields.io/badge/Dart-009dff?style=for-the-badge&logo=dart&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0b1020" />
+  <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-081120?style=for-the-badge&logo=mysql&logoColor=00cfff" />
 </div>
 
 <br>
@@ -44,7 +42,7 @@ I enjoy building backend systems, experimenting with game design, and exploring 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00FF9C&text_color=E6EDF3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff&cache_seconds=0" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=E6EDF3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3&cache_seconds=0" alt="Top Langs" />
 </div>
