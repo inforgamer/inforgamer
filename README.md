@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/dark_hour_moon.gif" alt="Dark Hour Moon" width="160"/>
-
   <h1>Hi, I'm Hugo (Infor) Marcondes! 👋</h1>
   <p><em>Writer by vocation, developer by choice, and an aspiring digital artist.</em></p>
   <p>I build systems with purpose and stories that linger beyond the surface. 🌙</p>
