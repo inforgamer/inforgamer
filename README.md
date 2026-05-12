@@ -16,13 +16,13 @@
 <br>
 
 ### 🚀 Tech Stack
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-00cfff?style=for-the-badge&logo=flutter&logoColor=0b1020" />
   <img src="https://img.shields.io/badge/Dart-009dff?style=for-the-badge&logo=dart&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0b1020" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MySQL-081120?style=for-the-badge&logo=mysql&logoColor=00cfff" />
-</div>
+</p>
 
 <br>
 
@@ -38,11 +38,9 @@
 I enjoy building backend systems, experimenting with game design, and exploring ideas that exist somewhere between logic and imagination.
 
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3)
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff&cache_seconds=0" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3&cache_seconds=0" alt="Top Langs" />
-</div>
+</p>
