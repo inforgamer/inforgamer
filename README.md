@@ -38,7 +38,9 @@
 I enjoy building backend systems, experimenting with game design, and exploring ideas that exist somewhere between logic and imagination.
 
 <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff&cache_seconds=0" alt="GitHub Stats" />
   <br><br>
