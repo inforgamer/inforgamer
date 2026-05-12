@@ -17,11 +17,11 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-00cfff?style=for-the-badge&logo=flutter&logoColor=0b1020" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-009dff?style=for-the-badge&logo=dart&logoColor=ffffff" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0b1020" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/MySQL-081120?style=for-the-badge&logo=mysql&logoColor=00cfff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flutter-00cfff?style=for-the-badge&logo=flutter&logoColor=0b1020" />
+  <img src="https://img.shields.io/badge/Dart-009dff?style=for-the-badge&logo=dart&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0b1020" />
+  <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-081120?style=for-the-badge&logo=mysql&logoColor=00cfff" />
 </p>
 
 <br>
@@ -40,8 +40,8 @@ I enjoy building backend systems, experimenting with game design, and exploring 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3" alt="Top Langs" />
 </p>
