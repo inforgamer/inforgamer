@@ -40,7 +40,7 @@ I enjoy building backend systems, experimenting with game design, and exploring 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=inforgamer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cfff&icon_color=00ff9c&text_color=e6edf3&ring_color=00cfff" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inforgamer&layout=compact&theme=tokyonight&hide_border=true&title_color=00cfff&text_color=e6edf3" alt="Top Langs" />
 </div>
