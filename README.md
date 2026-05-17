@@ -9,6 +9,7 @@
 ---
 
 ### 🛠️ What I'm Working On
+- 🍹 **Go Drinking!:** A premium event and Open Bar management platform with high-precision stock control, built with Kotlin & Jetpack Compose.
 - 📦 **Estoque:** A professional inventory system (Dart/Python) with real-time SQLite & MySQL sync.
 - 🎮 **Project Insomnia:** A 2D Roguelite exploring mental health through a Tarot-based class system.
 - 🖋️ **Writing:** Two novels in progress, blending the fantastic with the everyday.
