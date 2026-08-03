@@ -10,9 +10,9 @@
 
 ### 🛠️ What I'm Working On
 - 🍹 **Go Drinking!:** A premium event and Open Bar management platform with high-precision stock control, built with Kotlin & Jetpack Compose.
-- 📦 **Estoque:** A professional inventory system (Dart) with real-time SQLite & MySQL sync.
-- 🎵 **Pico MP3 Player:** A custom hardware MP3 player with a rotary encoder interface and ILI9341 display, built using Raspberry Pi Pico and MicroPython.
-- 🖋️ **Writing:** One novels in progress, blending the fantastic with the everyday.
+- 📦 **KiStock:** A professional inventory system (Dart) with real-time SQLite & MySQL sync.
+- 🎵 **KiMusic:** A custom hardware MP3 player with a rotary encoder interface and ILI9341 display, built using Raspberry Pi Pico and MicroPython.
+- 🖋️ **Writing:** One novel in progress, blending the fantastic with the everyday.
 
 <br>
 
@@ -33,6 +33,12 @@
 
 <div align="center">
   <h3><em>"Memento Mori. Live with intent before the clock runs out."</em> 🌙</h3>
+  <details>
+    <summary>...</summary>
+    <br>
+    <p><em>"Fear does not prevent death, it prevents life."</em></p>
+    <p><em>"Every journey begins with a single step."</em></p>
+  </details>
 </div>
 
 ---
