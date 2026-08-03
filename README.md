@@ -12,7 +12,7 @@
 - 🍹 **Go Drinking!:** A premium event and Open Bar management platform with high-precision stock control, built with Kotlin & Jetpack Compose.
 - 📦 **Estoque:** A professional inventory system (Dart) with real-time SQLite & MySQL sync.
 - 🎵 **Pico MP3 Player:** A custom hardware MP3 player with a rotary encoder interface and ILI9341 display, built using Raspberry Pi Pico and MicroPython.
-- 🖋️ **Writing:** Two novels in progress, blending the fantastic with the everyday.
+- 🖋️ **Writing:** One novels in progress, blending the fantastic with the everyday.
 
 <br>
 
