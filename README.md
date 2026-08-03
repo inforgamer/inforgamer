@@ -11,7 +11,7 @@
 ### 🛠️ What I'm Working On
 - 🍹 **Go Drinking!:** A premium event and Open Bar management platform with high-precision stock control, built with Kotlin & Jetpack Compose.
 - 📦 **Estoque:** A professional inventory system (Dart/Python) with real-time SQLite & MySQL sync.
-- 🎮 **Project Insomnia:** A 2D Roguelite exploring mental health through a Tarot-based class system.
+- 🎵 **Pico MP3 Player:** A custom hardware MP3 player with a rotary encoder interface and ILI9341 display, built using Raspberry Pi Pico and MicroPython.
 - 🖋️ **Writing:** Two novels in progress, blending the fantastic with the everyday.
 
 <br>
@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=0b1020" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
   <img src="https://img.shields.io/badge/MySQL-081120?style=for-the-badge&logo=mysql&logoColor=00cfff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2E33?style=for-the-badge&logo=python&logoColor=00ff9c" alt="MicroPython" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi Pico" />
 </p>
 
 <br>
@@ -36,7 +38,7 @@
 ---
 
 ### 🎨 Let's Connect?
-I enjoy building backend systems, experimenting with game design, and exploring ideas that exist somewhere between logic and imagination.
+I enjoy building backend systems, experimenting with hardware, and exploring ideas that exist somewhere between logic and imagination.
 
 <br>
 
