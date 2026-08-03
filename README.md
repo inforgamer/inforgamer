@@ -36,8 +36,8 @@
   <details>
     <summary>...</summary>
     <br>
-    <p><em>"Fear does not prevent death, it prevents life."</em></p>
-    <p><em>"Every journey begins with a single step."</em></p>
+    <p><em>"Trepidation doesn't stop death but it stops life"</em></p>
+    <p><em>"All the journeys start somewhere with a first step"</em></p>
   </details>
 </div>
 
